@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="InvoiceMaker">
+</Property><Property Name="Solution File" Value="D:\Workspace\Collections\Sample Collections\Hotel Billing\Unknown\InvoiceMaker\InvoiceMaker.sln">
+</Property><Property Name="User Options File" Value="D:\Workspace\Collections\Sample Collections\Hotel Billing\Unknown\InvoiceMaker\InvoiceMaker.suo">
+</Property><Property Name="Date" Value="25 July 2017">
+</Property><Property Name="Time" Value="16:47">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="InvoiceMaker.sln" Description="File successfully backed up as D:\Workspace\Collections\Sample Collections\Hotel Billing\Unknown\InvoiceMaker\Backup\InvoiceMaker.sln">
+</Event><Event ErrorLevel="0" Project="" Source="InvoiceMaker.suo" Description="File successfully backed up as D:\Workspace\Collections\Sample Collections\Hotel Billing\Unknown\InvoiceMaker\Backup\InvoiceMaker.suo">
+</Event><Event ErrorLevel="0" Project="InvoiceMaker" Source="InvoiceMaker.csproj" Description="Project file successfully backed up as D:\Workspace\Collections\Sample Collections\Hotel Billing\Unknown\InvoiceMaker\Backup\InvoiceMaker.csproj">
+</Event><Event ErrorLevel="0" Project="InvoiceMaker" Source="InvoiceMaker.csproj.user" Description="Project user file successfully backed up as D:\Workspace\Collections\Sample Collections\Hotel Billing\Unknown\InvoiceMaker\Backup\InvoiceMaker.csproj.user">
+</Event><Event ErrorLevel="0" Project="InvoiceMaker" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\Workspace\Collections\Sample Collections\Hotel Billing\Unknown\InvoiceMaker\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="InvoiceMaker" Source="Form1.cs" Description="File successfully backed up as D:\Workspace\Collections\Sample Collections\Hotel Billing\Unknown\InvoiceMaker\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="InvoiceMaker" Source="InvoiceData.cs" Description="File successfully backed up as D:\Workspace\Collections\Sample Collections\Hotel Billing\Unknown\InvoiceMaker\Backup\InvoiceData.cs">
+</Event><Event ErrorLevel="0" Project="InvoiceMaker" Source="InvoiceDataRow.cs" Description="File successfully backed up as D:\Workspace\Collections\Sample Collections\Hotel Billing\Unknown\InvoiceMaker\Backup\InvoiceDataRow.cs">
+</Event><Event ErrorLevel="0" Project="InvoiceMaker" Source="App.ico" Description="File successfully backed up as D:\Workspace\Collections\Sample Collections\Hotel Billing\Unknown\InvoiceMaker\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="InvoiceMaker" Source="Form1.resx" Description="File successfully backed up as D:\Workspace\Collections\Sample Collections\Hotel Billing\Unknown\InvoiceMaker\Backup\Form1.resx">
+</Event><Event ErrorLevel="1" Project="InvoiceMaker" Source="InvoiceMaker.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="InvoiceMaker" Source="InvoiceMaker.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="InvoiceMaker" Source="InvoiceMaker.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="InvoiceMaker.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="InvoiceMaker.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="InvoiceMaker" Source="InvoiceMaker.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
